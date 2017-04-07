@@ -11,12 +11,12 @@ Projektdaten der Diplomarbeit
 
 ## Dokumentation
 
-Inhalt in arbeit...
+:warning: Inhalt in Arbeit...
 
 
 ## Installation
 
-Inhalt in Arbeit...
+:warning: Inhalt in Arbeit...
 
 ## Ausführen
     npm start
