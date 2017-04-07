@@ -1,4 +1,4 @@
-# |Smart-Mirror|
+# Smart-Mirror
 Version v1.3.5
 
 
