@@ -1,2 +1,5 @@
 # Smart-Mirror
-Smart Mirror v1.3.5
+Version v1.3.5
+
+
+Projektdaten der Diplomarbeit
