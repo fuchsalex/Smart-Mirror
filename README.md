@@ -4,4 +4,13 @@ Version v1.3.5
 
 Projektdaten der Diplomarbeit
 
-![Vorschau](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
+
+
+
+![bild logo](https://github.com/fuchsalex/Smart-Mirror/issues/2)  
+
+[![MIT License](https://github.com/fuchsalex/Smart-Mirror/blob/master/LICENSE)
+
+
+##Installation
